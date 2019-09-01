@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+@extends('layouts.app')
+@section('title', '')
+
+@section('content')
+
+@endsection
+]]></content>
+	<tabTrigger>cb:blade</tabTrigger>
+	<scope>text.blade</scope>
+</snippet>

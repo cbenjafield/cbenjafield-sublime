@@ -1,0 +1,24 @@
+<snippet>
+	<content><![CDATA[
+<template>
+
+</template>
+<script>
+export default {
+
+	data() {
+		return {
+			//
+		}
+	},
+
+	methods: {
+		//
+	}
+
+}
+</script>
+]]></content>
+	<tabTrigger>cb:vc</tabTrigger>
+	<scope>text.html.vue</scope>
+</snippet>
